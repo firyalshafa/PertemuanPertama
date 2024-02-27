@@ -22,6 +22,9 @@ int main()
     cout << "Luasnya" << nLuas;
 
     int Panjang, Lebar, Luas;
+    cout << "masukan Panjang = ";
+    cin >> Panjang;
+
 
     
 
